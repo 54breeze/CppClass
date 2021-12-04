@@ -1,6 +1,8 @@
 //
 // Created by Administrator on 2021/11/27.
 //
+// 这是关于图的类，分别采用邻接矩阵和邻接表存图。
+// 完成了两点间距离查找，dfs遍历，bfs遍历，floyd算法。
 #include <map>
 #include <vector>
 
