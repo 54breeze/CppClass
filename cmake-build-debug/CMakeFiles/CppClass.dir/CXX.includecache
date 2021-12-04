@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/breeze/CC++/CLion/CppClass/Graph.h
+map
+-
+vector
+-
+
+D:/breeze/CC++/CLion/CppClass/Tree.h
+vector
+-
+queue
+-
+node.h
+D:/breeze/CC++/CLion/CppClass/node.h
+
+D:/breeze/CC++/CLion/CppClass/main.cpp
+iostream
+-
+Graph.h
+D:/breeze/CC++/CLion/CppClass/Graph.h
+matrix.h
+D:/breeze/CC++/CLion/CppClass/matrix.h
+Tree.h
+D:/breeze/CC++/CLion/CppClass/Tree.h
+
+D:/breeze/CC++/CLion/CppClass/matrix.h
+iostream
+-
+vector
+-
+array
+-
+
+D:/breeze/CC++/CLion/CppClass/node.h
+
