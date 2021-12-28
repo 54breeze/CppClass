@@ -80,12 +80,12 @@ clean: CMakeFiles/CppClass.dir/clean
 CMakeFiles/CppClass.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\breeze\CC++\CLion\CppClass\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5 "Built target CppClass"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\breeze\CC++\CLion\CppClass\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6 "Built target CppClass"
 .PHONY : CMakeFiles/CppClass.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/CppClass.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\breeze\CC++\CLion\CppClass\cmake-build-debug\CMakeFiles 5
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\breeze\CC++\CLion\CppClass\cmake-build-debug\CMakeFiles 6
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CppClass.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\breeze\CC++\CLion\CppClass\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/CppClass.dir/rule

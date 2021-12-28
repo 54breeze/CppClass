@@ -4,15 +4,17 @@
 CMakeFiles/CppClass.dir/Graph.cpp.obj
  D:/breeze/CC++/CLion/CppClass/Graph.cpp
  D:/breeze/CC++/CLion/CppClass/Graph.h
+CMakeFiles/CppClass.dir/Huffman.cpp.obj
+ D:/breeze/CC++/CLion/CppClass/Huffman.cpp
+ D:/breeze/CC++/CLion/CppClass/Huffman.h
+ D:/breeze/CC++/CLion/CppClass/node.h
 CMakeFiles/CppClass.dir/Tree.cpp.obj
  D:/breeze/CC++/CLion/CppClass/Tree.cpp
  D:/breeze/CC++/CLion/CppClass/Tree.h
  D:/breeze/CC++/CLion/CppClass/node.h
 CMakeFiles/CppClass.dir/main.cpp.obj
- D:/breeze/CC++/CLion/CppClass/Graph.h
- D:/breeze/CC++/CLion/CppClass/Tree.h
+ D:/breeze/CC++/CLion/CppClass/Huffman.h
  D:/breeze/CC++/CLion/CppClass/main.cpp
- D:/breeze/CC++/CLion/CppClass/matrix.h
  D:/breeze/CC++/CLion/CppClass/node.h
 CMakeFiles/CppClass.dir/matrix.cpp.obj
  D:/breeze/CC++/CLion/CppClass/matrix.cpp

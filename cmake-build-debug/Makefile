@@ -152,6 +152,30 @@ Graph.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/Graph.cpp.s
 .PHONY : Graph.cpp.s
 
+Huffman.obj: Huffman.cpp.obj
+.PHONY : Huffman.obj
+
+# target to build an object file
+Huffman.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/Huffman.cpp.obj
+.PHONY : Huffman.cpp.obj
+
+Huffman.i: Huffman.cpp.i
+.PHONY : Huffman.i
+
+# target to preprocess a source file
+Huffman.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/Huffman.cpp.i
+.PHONY : Huffman.cpp.i
+
+Huffman.s: Huffman.cpp.s
+.PHONY : Huffman.s
+
+# target to generate assembly for a file
+Huffman.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/Huffman.cpp.s
+.PHONY : Huffman.cpp.s
+
 Tree.obj: Tree.cpp.obj
 .PHONY : Tree.obj
 
@@ -236,6 +260,9 @@ help:
 	@echo ... Graph.obj
 	@echo ... Graph.i
 	@echo ... Graph.s
+	@echo ... Huffman.obj
+	@echo ... Huffman.i
+	@echo ... Huffman.s
 	@echo ... Tree.obj
 	@echo ... Tree.i
 	@echo ... Tree.s

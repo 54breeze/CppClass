@@ -86,6 +86,12 @@
 		<Unit filename="D:/breeze/CC++/CLion/CppClass/Graph.h">
 			<Option target="CppClass"/>
 		</Unit>
+		<Unit filename="D:/breeze/CC++/CLion/CppClass/Huffman.cpp">
+			<Option target="CppClass"/>
+		</Unit>
+		<Unit filename="D:/breeze/CC++/CLion/CppClass/Huffman.h">
+			<Option target="CppClass"/>
+		</Unit>
 		<Unit filename="D:/breeze/CC++/CLion/CppClass/Tree.cpp">
 			<Option target="CppClass"/>
 		</Unit>

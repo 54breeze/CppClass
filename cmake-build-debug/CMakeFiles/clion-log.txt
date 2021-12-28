@@ -1,13 +1,4 @@
 "D:\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" D:\breeze\CC++\CLion\CppClass
 -- Configuring done
-CMake Error at CMakeLists.txt:6 (add_executable):
-  Cannot find source file:
-
-    Tree.cpp
-
-
-CMake Error at CMakeLists.txt:6 (add_executable):
-  No SOURCES given to target: CppClass
-
-
-CMake Generate step failed.  Build files cannot be regenerated correctly.
+-- Generating done
+-- Build files have been written to: D:/breeze/CC++/CLion/CppClass/cmake-build-debug

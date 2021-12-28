@@ -3,23 +3,42 @@
 //
 // 这里的结点类是二叉树的结点
 
+#include <memory>
+
 #ifndef TREE_NODE_H
 #define TREE_NODE_H
+#define Type char
 
-template<typename T>
 class Node {
 public:
-    Node() {
+    Node() = default;
 
-    }
+    Type data;
+};
 
-    Node(T data) {
+class NodeTree : public Node {
+public:
+    NodeTree() = default;
+
+    NodeTree(Type data) {
         this->data = data;
     }
 
-    T data;
-    int weight;
-    Node<T> *left = nullptr, *right = nullptr;
+    std::shared_ptr<NodeTree> left;
+    std::shared_ptr<NodeTree> right;
+};
+
+class NodeHuffman : public Node {
+public:
+    NodeHuffman() = default;
+
+    NodeHuffman(char data) {
+        this->data = data;
+    }
+
+    std::shared_ptr<NodeHuffman> right;
+    std::shared_ptr<NodeHuffman> left;
+    double frequency;
 };
 
 #endif //TREE_NODE_H
