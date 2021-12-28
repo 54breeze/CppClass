@@ -80,34 +80,40 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/breeze/CC++/CLion/CppClass/Graph.cpp">
+		<Unit filename="D:/breeze/CC++/CLion/CppClass/GraphAll/Graph.cpp">
 			<Option target="CppClass"/>
 		</Unit>
-		<Unit filename="D:/breeze/CC++/CLion/CppClass/Graph.h">
+		<Unit filename="D:/breeze/CC++/CLion/CppClass/GraphAll/Graph.h">
 			<Option target="CppClass"/>
 		</Unit>
-		<Unit filename="D:/breeze/CC++/CLion/CppClass/Huffman.cpp">
+		<Unit filename="D:/breeze/CC++/CLion/CppClass/MatrixALL/matrix.cpp">
 			<Option target="CppClass"/>
 		</Unit>
-		<Unit filename="D:/breeze/CC++/CLion/CppClass/Huffman.h">
+		<Unit filename="D:/breeze/CC++/CLion/CppClass/MatrixALL/matrix.h">
 			<Option target="CppClass"/>
 		</Unit>
-		<Unit filename="D:/breeze/CC++/CLion/CppClass/Tree.cpp">
+		<Unit filename="D:/breeze/CC++/CLion/CppClass/TreeAll/Huffman.cpp">
 			<Option target="CppClass"/>
 		</Unit>
-		<Unit filename="D:/breeze/CC++/CLion/CppClass/Tree.h">
+		<Unit filename="D:/breeze/CC++/CLion/CppClass/TreeAll/Huffman.h">
+			<Option target="CppClass"/>
+		</Unit>
+		<Unit filename="D:/breeze/CC++/CLion/CppClass/TreeAll/RealTree.cpp">
+			<Option target="CppClass"/>
+		</Unit>
+		<Unit filename="D:/breeze/CC++/CLion/CppClass/TreeAll/RealTree.h">
+			<Option target="CppClass"/>
+		</Unit>
+		<Unit filename="D:/breeze/CC++/CLion/CppClass/TreeAll/Tree.cpp">
+			<Option target="CppClass"/>
+		</Unit>
+		<Unit filename="D:/breeze/CC++/CLion/CppClass/TreeAll/Tree.h">
+			<Option target="CppClass"/>
+		</Unit>
+		<Unit filename="D:/breeze/CC++/CLion/CppClass/TreeAll/node.h">
 			<Option target="CppClass"/>
 		</Unit>
 		<Unit filename="D:/breeze/CC++/CLion/CppClass/main.cpp">
-			<Option target="CppClass"/>
-		</Unit>
-		<Unit filename="D:/breeze/CC++/CLion/CppClass/matrix.cpp">
-			<Option target="CppClass"/>
-		</Unit>
-		<Unit filename="D:/breeze/CC++/CLion/CppClass/matrix.h">
-			<Option target="CppClass"/>
-		</Unit>
-		<Unit filename="D:/breeze/CC++/CLion/CppClass/node.h">
 			<Option target="CppClass"/>
 		</Unit>
 		<Unit filename="D:/breeze/CC++/CLion/CppClass/CMakeLists.txt">

@@ -2,8 +2,7 @@
 // Created by Administrator on 2021/10/21.
 //
 //处理各种二叉树的基本操作，不保存树
-#include<vector>
-#include<queue>
+#include <vector>
 #include "node.h"
 
 
@@ -15,7 +14,7 @@ public:
     Tree() = default;
 
 //    根据一个数组以层序遍历创建二叉树，nullDate是空格字符
-    std::shared_ptr<NodeTree> createTree(std::vector<Type> dataArray, Type nullDate);
+    std::shared_ptr<NodeTree> floorOrderCreateTree(std::vector<Type> dataArray, Type nullDate);
 
 //    根据一个数组以先序遍历创建二叉树，nullDate是空格字符
     std::shared_ptr<NodeTree> preOrderCreatTree(std::vector<Type> dataArray, Type nullDate) {

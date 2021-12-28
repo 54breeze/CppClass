@@ -1,6 +1,7 @@
 //
 // Created by Administrator on 2021/12/27.
 //
+//这是关于哈夫曼树的类，包括哈夫曼树的创建和，已知哈夫曼树求其编码
 #include "node.h"
 #include <vector>
 #include <map>

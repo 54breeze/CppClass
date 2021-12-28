@@ -3,4 +3,4 @@ project(CppClass)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(CppClass main.cpp Graph.cpp Graph.h matrix.cpp matrix.h Tree.cpp Tree.h node.h Huffman.cpp Huffman.h)
+add_executable(CppClass main.cpp GraphAll/Graph.cpp GraphAll/Graph.h MatrixALL/matrix.cpp MatrixALL/matrix.h TreeAll/Tree.cpp TreeAll/Tree.h TreeAll/node.h TreeAll/Huffman.cpp TreeAll/Huffman.h TreeAll/RealTree.cpp TreeAll/RealTree.h)

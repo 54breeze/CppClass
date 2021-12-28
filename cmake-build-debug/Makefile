@@ -128,77 +128,125 @@ CppClass/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/build
 .PHONY : CppClass/fast
 
-Graph.obj: Graph.cpp.obj
-.PHONY : Graph.obj
+GraphAll/Graph.obj: GraphAll/Graph.cpp.obj
+.PHONY : GraphAll/Graph.obj
 
 # target to build an object file
-Graph.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/Graph.cpp.obj
-.PHONY : Graph.cpp.obj
+GraphAll/Graph.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/GraphAll/Graph.cpp.obj
+.PHONY : GraphAll/Graph.cpp.obj
 
-Graph.i: Graph.cpp.i
-.PHONY : Graph.i
+GraphAll/Graph.i: GraphAll/Graph.cpp.i
+.PHONY : GraphAll/Graph.i
 
 # target to preprocess a source file
-Graph.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/Graph.cpp.i
-.PHONY : Graph.cpp.i
+GraphAll/Graph.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/GraphAll/Graph.cpp.i
+.PHONY : GraphAll/Graph.cpp.i
 
-Graph.s: Graph.cpp.s
-.PHONY : Graph.s
+GraphAll/Graph.s: GraphAll/Graph.cpp.s
+.PHONY : GraphAll/Graph.s
 
 # target to generate assembly for a file
-Graph.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/Graph.cpp.s
-.PHONY : Graph.cpp.s
+GraphAll/Graph.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/GraphAll/Graph.cpp.s
+.PHONY : GraphAll/Graph.cpp.s
 
-Huffman.obj: Huffman.cpp.obj
-.PHONY : Huffman.obj
+MatrixALL/matrix.obj: MatrixALL/matrix.cpp.obj
+.PHONY : MatrixALL/matrix.obj
 
 # target to build an object file
-Huffman.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/Huffman.cpp.obj
-.PHONY : Huffman.cpp.obj
+MatrixALL/matrix.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/MatrixALL/matrix.cpp.obj
+.PHONY : MatrixALL/matrix.cpp.obj
 
-Huffman.i: Huffman.cpp.i
-.PHONY : Huffman.i
+MatrixALL/matrix.i: MatrixALL/matrix.cpp.i
+.PHONY : MatrixALL/matrix.i
 
 # target to preprocess a source file
-Huffman.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/Huffman.cpp.i
-.PHONY : Huffman.cpp.i
+MatrixALL/matrix.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/MatrixALL/matrix.cpp.i
+.PHONY : MatrixALL/matrix.cpp.i
 
-Huffman.s: Huffman.cpp.s
-.PHONY : Huffman.s
+MatrixALL/matrix.s: MatrixALL/matrix.cpp.s
+.PHONY : MatrixALL/matrix.s
 
 # target to generate assembly for a file
-Huffman.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/Huffman.cpp.s
-.PHONY : Huffman.cpp.s
+MatrixALL/matrix.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/MatrixALL/matrix.cpp.s
+.PHONY : MatrixALL/matrix.cpp.s
 
-Tree.obj: Tree.cpp.obj
-.PHONY : Tree.obj
+TreeAll/Huffman.obj: TreeAll/Huffman.cpp.obj
+.PHONY : TreeAll/Huffman.obj
 
 # target to build an object file
-Tree.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/Tree.cpp.obj
-.PHONY : Tree.cpp.obj
+TreeAll/Huffman.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/TreeAll/Huffman.cpp.obj
+.PHONY : TreeAll/Huffman.cpp.obj
 
-Tree.i: Tree.cpp.i
-.PHONY : Tree.i
+TreeAll/Huffman.i: TreeAll/Huffman.cpp.i
+.PHONY : TreeAll/Huffman.i
 
 # target to preprocess a source file
-Tree.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/Tree.cpp.i
-.PHONY : Tree.cpp.i
+TreeAll/Huffman.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/TreeAll/Huffman.cpp.i
+.PHONY : TreeAll/Huffman.cpp.i
 
-Tree.s: Tree.cpp.s
-.PHONY : Tree.s
+TreeAll/Huffman.s: TreeAll/Huffman.cpp.s
+.PHONY : TreeAll/Huffman.s
 
 # target to generate assembly for a file
-Tree.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/Tree.cpp.s
-.PHONY : Tree.cpp.s
+TreeAll/Huffman.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/TreeAll/Huffman.cpp.s
+.PHONY : TreeAll/Huffman.cpp.s
+
+TreeAll/RealTree.obj: TreeAll/RealTree.cpp.obj
+.PHONY : TreeAll/RealTree.obj
+
+# target to build an object file
+TreeAll/RealTree.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/TreeAll/RealTree.cpp.obj
+.PHONY : TreeAll/RealTree.cpp.obj
+
+TreeAll/RealTree.i: TreeAll/RealTree.cpp.i
+.PHONY : TreeAll/RealTree.i
+
+# target to preprocess a source file
+TreeAll/RealTree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/TreeAll/RealTree.cpp.i
+.PHONY : TreeAll/RealTree.cpp.i
+
+TreeAll/RealTree.s: TreeAll/RealTree.cpp.s
+.PHONY : TreeAll/RealTree.s
+
+# target to generate assembly for a file
+TreeAll/RealTree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/TreeAll/RealTree.cpp.s
+.PHONY : TreeAll/RealTree.cpp.s
+
+TreeAll/Tree.obj: TreeAll/Tree.cpp.obj
+.PHONY : TreeAll/Tree.obj
+
+# target to build an object file
+TreeAll/Tree.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/TreeAll/Tree.cpp.obj
+.PHONY : TreeAll/Tree.cpp.obj
+
+TreeAll/Tree.i: TreeAll/Tree.cpp.i
+.PHONY : TreeAll/Tree.i
+
+# target to preprocess a source file
+TreeAll/Tree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/TreeAll/Tree.cpp.i
+.PHONY : TreeAll/Tree.cpp.i
+
+TreeAll/Tree.s: TreeAll/Tree.cpp.s
+.PHONY : TreeAll/Tree.s
+
+# target to generate assembly for a file
+TreeAll/Tree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/TreeAll/Tree.cpp.s
+.PHONY : TreeAll/Tree.cpp.s
 
 main.obj: main.cpp.obj
 .PHONY : main.obj
@@ -224,30 +272,6 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-matrix.obj: matrix.cpp.obj
-.PHONY : matrix.obj
-
-# target to build an object file
-matrix.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/matrix.cpp.obj
-.PHONY : matrix.cpp.obj
-
-matrix.i: matrix.cpp.i
-.PHONY : matrix.i
-
-# target to preprocess a source file
-matrix.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/matrix.cpp.i
-.PHONY : matrix.cpp.i
-
-matrix.s: matrix.cpp.s
-.PHONY : matrix.s
-
-# target to generate assembly for a file
-matrix.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppClass.dir\build.make CMakeFiles/CppClass.dir/matrix.cpp.s
-.PHONY : matrix.cpp.s
-
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -257,21 +281,24 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... CppClass
-	@echo ... Graph.obj
-	@echo ... Graph.i
-	@echo ... Graph.s
-	@echo ... Huffman.obj
-	@echo ... Huffman.i
-	@echo ... Huffman.s
-	@echo ... Tree.obj
-	@echo ... Tree.i
-	@echo ... Tree.s
+	@echo ... GraphAll/Graph.obj
+	@echo ... GraphAll/Graph.i
+	@echo ... GraphAll/Graph.s
+	@echo ... MatrixALL/matrix.obj
+	@echo ... MatrixALL/matrix.i
+	@echo ... MatrixALL/matrix.s
+	@echo ... TreeAll/Huffman.obj
+	@echo ... TreeAll/Huffman.i
+	@echo ... TreeAll/Huffman.s
+	@echo ... TreeAll/RealTree.obj
+	@echo ... TreeAll/RealTree.i
+	@echo ... TreeAll/RealTree.s
+	@echo ... TreeAll/Tree.obj
+	@echo ... TreeAll/Tree.i
+	@echo ... TreeAll/Tree.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
-	@echo ... matrix.obj
-	@echo ... matrix.i
-	@echo ... matrix.s
 .PHONY : help
 
 

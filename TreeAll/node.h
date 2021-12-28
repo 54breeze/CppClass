@@ -7,7 +7,7 @@
 
 #ifndef TREE_NODE_H
 #define TREE_NODE_H
-#define Type char
+#define Type int
 
 class Node {
 public:

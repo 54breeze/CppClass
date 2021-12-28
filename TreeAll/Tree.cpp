@@ -2,10 +2,11 @@
 // Created by Administrator on 2021/10/21.
 //
 #include <iostream>
+#include <queue>
 #include "Tree.h"
 
 //    根据一个数组以层序遍历创建二叉树，nullDate是空格字符
-std::shared_ptr<NodeTree> Tree::createTree(std::vector<char> dataArray, char nullDate) {
+std::shared_ptr<NodeTree> Tree::floorOrderCreateTree(std::vector<Type> dataArray, Type nullDate) {
     std::queue<std::shared_ptr<NodeTree>> queue;
     std::shared_ptr<NodeTree> root(new NodeTree);
     auto item = dataArray.begin();

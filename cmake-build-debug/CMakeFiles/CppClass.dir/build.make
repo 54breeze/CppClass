@@ -78,79 +78,94 @@ CMakeFiles/CppClass.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CppClass.dir/main.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\breeze\CC++\CLion\CppClass\main.cpp -o CMakeFiles\CppClass.dir\main.cpp.s
 
-CMakeFiles/CppClass.dir/Graph.cpp.obj: CMakeFiles/CppClass.dir/flags.make
-CMakeFiles/CppClass.dir/Graph.cpp.obj: ../Graph.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\breeze\CC++\CLion\CppClass\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CppClass.dir/Graph.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CppClass.dir\Graph.cpp.obj -c D:\breeze\CC++\CLion\CppClass\Graph.cpp
+CMakeFiles/CppClass.dir/GraphAll/Graph.cpp.obj: CMakeFiles/CppClass.dir/flags.make
+CMakeFiles/CppClass.dir/GraphAll/Graph.cpp.obj: ../GraphAll/Graph.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\breeze\CC++\CLion\CppClass\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CppClass.dir/GraphAll/Graph.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CppClass.dir\GraphAll\Graph.cpp.obj -c D:\breeze\CC++\CLion\CppClass\GraphAll\Graph.cpp
 
-CMakeFiles/CppClass.dir/Graph.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CppClass.dir/Graph.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\breeze\CC++\CLion\CppClass\Graph.cpp > CMakeFiles\CppClass.dir\Graph.cpp.i
+CMakeFiles/CppClass.dir/GraphAll/Graph.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CppClass.dir/GraphAll/Graph.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\breeze\CC++\CLion\CppClass\GraphAll\Graph.cpp > CMakeFiles\CppClass.dir\GraphAll\Graph.cpp.i
 
-CMakeFiles/CppClass.dir/Graph.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CppClass.dir/Graph.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\breeze\CC++\CLion\CppClass\Graph.cpp -o CMakeFiles\CppClass.dir\Graph.cpp.s
+CMakeFiles/CppClass.dir/GraphAll/Graph.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CppClass.dir/GraphAll/Graph.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\breeze\CC++\CLion\CppClass\GraphAll\Graph.cpp -o CMakeFiles\CppClass.dir\GraphAll\Graph.cpp.s
 
-CMakeFiles/CppClass.dir/matrix.cpp.obj: CMakeFiles/CppClass.dir/flags.make
-CMakeFiles/CppClass.dir/matrix.cpp.obj: ../matrix.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\breeze\CC++\CLion\CppClass\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CppClass.dir/matrix.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CppClass.dir\matrix.cpp.obj -c D:\breeze\CC++\CLion\CppClass\matrix.cpp
+CMakeFiles/CppClass.dir/MatrixALL/matrix.cpp.obj: CMakeFiles/CppClass.dir/flags.make
+CMakeFiles/CppClass.dir/MatrixALL/matrix.cpp.obj: ../MatrixALL/matrix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\breeze\CC++\CLion\CppClass\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CppClass.dir/MatrixALL/matrix.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CppClass.dir\MatrixALL\matrix.cpp.obj -c D:\breeze\CC++\CLion\CppClass\MatrixALL\matrix.cpp
 
-CMakeFiles/CppClass.dir/matrix.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CppClass.dir/matrix.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\breeze\CC++\CLion\CppClass\matrix.cpp > CMakeFiles\CppClass.dir\matrix.cpp.i
+CMakeFiles/CppClass.dir/MatrixALL/matrix.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CppClass.dir/MatrixALL/matrix.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\breeze\CC++\CLion\CppClass\MatrixALL\matrix.cpp > CMakeFiles\CppClass.dir\MatrixALL\matrix.cpp.i
 
-CMakeFiles/CppClass.dir/matrix.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CppClass.dir/matrix.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\breeze\CC++\CLion\CppClass\matrix.cpp -o CMakeFiles\CppClass.dir\matrix.cpp.s
+CMakeFiles/CppClass.dir/MatrixALL/matrix.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CppClass.dir/MatrixALL/matrix.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\breeze\CC++\CLion\CppClass\MatrixALL\matrix.cpp -o CMakeFiles\CppClass.dir\MatrixALL\matrix.cpp.s
 
-CMakeFiles/CppClass.dir/Tree.cpp.obj: CMakeFiles/CppClass.dir/flags.make
-CMakeFiles/CppClass.dir/Tree.cpp.obj: ../Tree.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\breeze\CC++\CLion\CppClass\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CppClass.dir/Tree.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CppClass.dir\Tree.cpp.obj -c D:\breeze\CC++\CLion\CppClass\Tree.cpp
+CMakeFiles/CppClass.dir/TreeAll/Tree.cpp.obj: CMakeFiles/CppClass.dir/flags.make
+CMakeFiles/CppClass.dir/TreeAll/Tree.cpp.obj: ../TreeAll/Tree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\breeze\CC++\CLion\CppClass\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CppClass.dir/TreeAll/Tree.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CppClass.dir\TreeAll\Tree.cpp.obj -c D:\breeze\CC++\CLion\CppClass\TreeAll\Tree.cpp
 
-CMakeFiles/CppClass.dir/Tree.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CppClass.dir/Tree.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\breeze\CC++\CLion\CppClass\Tree.cpp > CMakeFiles\CppClass.dir\Tree.cpp.i
+CMakeFiles/CppClass.dir/TreeAll/Tree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CppClass.dir/TreeAll/Tree.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\breeze\CC++\CLion\CppClass\TreeAll\Tree.cpp > CMakeFiles\CppClass.dir\TreeAll\Tree.cpp.i
 
-CMakeFiles/CppClass.dir/Tree.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CppClass.dir/Tree.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\breeze\CC++\CLion\CppClass\Tree.cpp -o CMakeFiles\CppClass.dir\Tree.cpp.s
+CMakeFiles/CppClass.dir/TreeAll/Tree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CppClass.dir/TreeAll/Tree.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\breeze\CC++\CLion\CppClass\TreeAll\Tree.cpp -o CMakeFiles\CppClass.dir\TreeAll\Tree.cpp.s
 
-CMakeFiles/CppClass.dir/Huffman.cpp.obj: CMakeFiles/CppClass.dir/flags.make
-CMakeFiles/CppClass.dir/Huffman.cpp.obj: ../Huffman.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\breeze\CC++\CLion\CppClass\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CppClass.dir/Huffman.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CppClass.dir\Huffman.cpp.obj -c D:\breeze\CC++\CLion\CppClass\Huffman.cpp
+CMakeFiles/CppClass.dir/TreeAll/Huffman.cpp.obj: CMakeFiles/CppClass.dir/flags.make
+CMakeFiles/CppClass.dir/TreeAll/Huffman.cpp.obj: ../TreeAll/Huffman.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\breeze\CC++\CLion\CppClass\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CppClass.dir/TreeAll/Huffman.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CppClass.dir\TreeAll\Huffman.cpp.obj -c D:\breeze\CC++\CLion\CppClass\TreeAll\Huffman.cpp
 
-CMakeFiles/CppClass.dir/Huffman.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CppClass.dir/Huffman.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\breeze\CC++\CLion\CppClass\Huffman.cpp > CMakeFiles\CppClass.dir\Huffman.cpp.i
+CMakeFiles/CppClass.dir/TreeAll/Huffman.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CppClass.dir/TreeAll/Huffman.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\breeze\CC++\CLion\CppClass\TreeAll\Huffman.cpp > CMakeFiles\CppClass.dir\TreeAll\Huffman.cpp.i
 
-CMakeFiles/CppClass.dir/Huffman.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CppClass.dir/Huffman.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\breeze\CC++\CLion\CppClass\Huffman.cpp -o CMakeFiles\CppClass.dir\Huffman.cpp.s
+CMakeFiles/CppClass.dir/TreeAll/Huffman.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CppClass.dir/TreeAll/Huffman.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\breeze\CC++\CLion\CppClass\TreeAll\Huffman.cpp -o CMakeFiles\CppClass.dir\TreeAll\Huffman.cpp.s
+
+CMakeFiles/CppClass.dir/TreeAll/RealTree.cpp.obj: CMakeFiles/CppClass.dir/flags.make
+CMakeFiles/CppClass.dir/TreeAll/RealTree.cpp.obj: ../TreeAll/RealTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\breeze\CC++\CLion\CppClass\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/CppClass.dir/TreeAll/RealTree.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CppClass.dir\TreeAll\RealTree.cpp.obj -c D:\breeze\CC++\CLion\CppClass\TreeAll\RealTree.cpp
+
+CMakeFiles/CppClass.dir/TreeAll/RealTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CppClass.dir/TreeAll/RealTree.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\breeze\CC++\CLion\CppClass\TreeAll\RealTree.cpp > CMakeFiles\CppClass.dir\TreeAll\RealTree.cpp.i
+
+CMakeFiles/CppClass.dir/TreeAll/RealTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CppClass.dir/TreeAll/RealTree.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\breeze\CC++\CLion\CppClass\TreeAll\RealTree.cpp -o CMakeFiles\CppClass.dir\TreeAll\RealTree.cpp.s
 
 # Object files for target CppClass
 CppClass_OBJECTS = \
 "CMakeFiles/CppClass.dir/main.cpp.obj" \
-"CMakeFiles/CppClass.dir/Graph.cpp.obj" \
-"CMakeFiles/CppClass.dir/matrix.cpp.obj" \
-"CMakeFiles/CppClass.dir/Tree.cpp.obj" \
-"CMakeFiles/CppClass.dir/Huffman.cpp.obj"
+"CMakeFiles/CppClass.dir/GraphAll/Graph.cpp.obj" \
+"CMakeFiles/CppClass.dir/MatrixALL/matrix.cpp.obj" \
+"CMakeFiles/CppClass.dir/TreeAll/Tree.cpp.obj" \
+"CMakeFiles/CppClass.dir/TreeAll/Huffman.cpp.obj" \
+"CMakeFiles/CppClass.dir/TreeAll/RealTree.cpp.obj"
 
 # External object files for target CppClass
 CppClass_EXTERNAL_OBJECTS =
 
 CppClass.exe: CMakeFiles/CppClass.dir/main.cpp.obj
-CppClass.exe: CMakeFiles/CppClass.dir/Graph.cpp.obj
-CppClass.exe: CMakeFiles/CppClass.dir/matrix.cpp.obj
-CppClass.exe: CMakeFiles/CppClass.dir/Tree.cpp.obj
-CppClass.exe: CMakeFiles/CppClass.dir/Huffman.cpp.obj
+CppClass.exe: CMakeFiles/CppClass.dir/GraphAll/Graph.cpp.obj
+CppClass.exe: CMakeFiles/CppClass.dir/MatrixALL/matrix.cpp.obj
+CppClass.exe: CMakeFiles/CppClass.dir/TreeAll/Tree.cpp.obj
+CppClass.exe: CMakeFiles/CppClass.dir/TreeAll/Huffman.cpp.obj
+CppClass.exe: CMakeFiles/CppClass.dir/TreeAll/RealTree.cpp.obj
 CppClass.exe: CMakeFiles/CppClass.dir/build.make
 CppClass.exe: CMakeFiles/CppClass.dir/linklibs.rsp
 CppClass.exe: CMakeFiles/CppClass.dir/objects1.rsp
 CppClass.exe: CMakeFiles/CppClass.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\breeze\CC++\CLion\CppClass\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable CppClass.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\breeze\CC++\CLion\CppClass\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable CppClass.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\CppClass.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

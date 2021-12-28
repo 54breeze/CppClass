@@ -8,11 +8,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/breeze/CC++/CLion/CppClass/Graph.cpp" "D:/breeze/CC++/CLion/CppClass/cmake-build-debug/CMakeFiles/CppClass.dir/Graph.cpp.obj"
-  "D:/breeze/CC++/CLion/CppClass/Huffman.cpp" "D:/breeze/CC++/CLion/CppClass/cmake-build-debug/CMakeFiles/CppClass.dir/Huffman.cpp.obj"
-  "D:/breeze/CC++/CLion/CppClass/Tree.cpp" "D:/breeze/CC++/CLion/CppClass/cmake-build-debug/CMakeFiles/CppClass.dir/Tree.cpp.obj"
+  "D:/breeze/CC++/CLion/CppClass/GraphAll/Graph.cpp" "D:/breeze/CC++/CLion/CppClass/cmake-build-debug/CMakeFiles/CppClass.dir/GraphAll/Graph.cpp.obj"
+  "D:/breeze/CC++/CLion/CppClass/MatrixALL/matrix.cpp" "D:/breeze/CC++/CLion/CppClass/cmake-build-debug/CMakeFiles/CppClass.dir/MatrixALL/matrix.cpp.obj"
+  "D:/breeze/CC++/CLion/CppClass/TreeAll/Huffman.cpp" "D:/breeze/CC++/CLion/CppClass/cmake-build-debug/CMakeFiles/CppClass.dir/TreeAll/Huffman.cpp.obj"
+  "D:/breeze/CC++/CLion/CppClass/TreeAll/RealTree.cpp" "D:/breeze/CC++/CLion/CppClass/cmake-build-debug/CMakeFiles/CppClass.dir/TreeAll/RealTree.cpp.obj"
+  "D:/breeze/CC++/CLion/CppClass/TreeAll/Tree.cpp" "D:/breeze/CC++/CLion/CppClass/cmake-build-debug/CMakeFiles/CppClass.dir/TreeAll/Tree.cpp.obj"
   "D:/breeze/CC++/CLion/CppClass/main.cpp" "D:/breeze/CC++/CLion/CppClass/cmake-build-debug/CMakeFiles/CppClass.dir/main.cpp.obj"
-  "D:/breeze/CC++/CLion/CppClass/matrix.cpp" "D:/breeze/CC++/CLion/CppClass/cmake-build-debug/CMakeFiles/CppClass.dir/matrix.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

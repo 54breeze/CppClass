@@ -6,23 +6,29 @@
 
 #IncludeRegexTransform: 
 
-D:/breeze/CC++/CLion/CppClass/Huffman.cpp
-Huffman.h
-D:/breeze/CC++/CLion/CppClass/Huffman.h
-memory
--
-algorithm
+D:/breeze/CC++/CLion/CppClass/TreeAll/RealTree.cpp
+RealTree.h
+D:/breeze/CC++/CLion/CppClass/TreeAll/RealTree.h
+
+D:/breeze/CC++/CLion/CppClass/TreeAll/RealTree.h
+Tree.h
+D:/breeze/CC++/CLion/CppClass/TreeAll/Tree.h
+iostream
 -
 
-D:/breeze/CC++/CLion/CppClass/Huffman.h
-node.h
-D:/breeze/CC++/CLion/CppClass/node.h
+D:/breeze/CC++/CLion/CppClass/TreeAll/Tree.h
 vector
 -
-map
--
+node.h
+D:/breeze/CC++/CLion/CppClass/TreeAll/node.h
 
-D:/breeze/CC++/CLion/CppClass/node.h
+D:/breeze/CC++/CLion/CppClass/TreeAll/node.h
 memory
 -
+
+D:/breeze/CC++/CLion/CppClass/main.cpp
+iostream
+-
+TreeAll/RealTree.h
+D:/breeze/CC++/CLion/CppClass/TreeAll/RealTree.h
 
